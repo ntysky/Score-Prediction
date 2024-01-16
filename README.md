@@ -9,6 +9,7 @@ Prevendo o score de clientes de um banco.
 # Repositório
 - Você pode acessar as bases de dados utilizadas na construção desse código neste repositório;
 - 'clientes.csv' = dataset usado para treinar e testar os modelos;
-- 'novos_clientes.csv' = dataset utilizado para fazer previsões.
+- 'novos_clientes.csv' = dataset utilizado para fazer previsões;
+- 'score_prediction.ipynb' = código.
 
 -> Dataset fornecido pela Hashtag Treinamentos.
